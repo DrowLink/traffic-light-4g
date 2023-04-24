@@ -1,0 +1,35 @@
+
+.verde {
+    background-color: green;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.amarillo {
+    background-color: yellow;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+.rojo {
+    background-color: red;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+
+* {
+    background-color: beige;
+}
+
+#palo {
+    height: 4em;
+}
+
+.brillo {
+    -webkit-box-shadow: 9px -13px 94px 37px rgba(242,255,0,0.79);
+    -moz-box-shadow: 9px -13px 94px 37px rgba(242,255,0,0.79);
+    box-shadow: 9px -13px 94px 37px rgba(242,255,0,0.79);
+}
